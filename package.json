@@ -1,0 +1,15 @@
+{
+  "name": "prettier-plugin-package-json",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zaaakher",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
